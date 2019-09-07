@@ -1,5 +1,4 @@
 This is a sample text document to practice working with multiple git branches and merging conflicts. This initial statement was made on the the edit-script branch. 
 
-Making an edit on the edit-script branch.
 
 poc:  Bubba Lewis, 7 September 2019
