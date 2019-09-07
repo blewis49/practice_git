@@ -1,5 +1,7 @@
 This is a sample text document to practice working with multiple git branches and merging conflicts. This initial statement was made on the the edit-script branch. 
 
-Resolved conflict by using this statement to be the same in both files.
+<<<<<<< HEAD
+=======
+>>>>>>> edit-script
 
 poc:  Bubba Lewis, 7 September 2019
