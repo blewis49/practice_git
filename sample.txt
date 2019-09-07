@@ -1,5 +1,3 @@
 This is a sample text document to practice working with multiple git branches and merging conflicts. This initial statement was made on the the edit-script branch. 
 
-add a new list in master branch
-
-poc:  Bubba Lewis, 7 September 2019
+add a new list 
